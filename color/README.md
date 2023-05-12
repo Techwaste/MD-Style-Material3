@@ -1,0 +1,99 @@
+# Color Scheme
+
+## Color scheme list
+- Sakura:
+	- Sakura10 = 41110b
+	- Sakura20 = 57160f
+	- Sakura30 = 822217
+	- Sakura40 = ad2d1f
+	- Sakura68 = e78175
+	- Sakura80 = f0afa8
+	- Sakura90 = f7d7d4
+- Dark Sakura:
+	- DarkSakura10 = 2b0c08
+	- DarkSakura20 = 561810
+	- DarkSakura30 = 812518
+	- DarkSakura40 = ab3121
+	- DarkSakura80 = efb1a9
+	- DarkSakura90 = f7d8d4
+- Ashen:
+	- Ashen20 = 323234
+	- Ashen36 = 5c5c5e
+	- Ashen80 = cbcbcd
+	- Ashen90 = e5e5e6
+- Red:
+	- Red10 = 410001
+	- Red20 = 680003
+	- Red30 = 930006
+	- Red40 = BA1B1B
+	- Red80 = FFB4A9
+	- Red90 = FFDAD4
+- Grey:
+	- Grey10 = 19191a
+	- Grey20 = 323234
+	- Grey50 = 7d7d82
+	- Grey90 = e5e5e6
+	- Grey95 = f2f2f2
+	- Grey99 = fcfcfc
+- SakuraGrey:
+	- SakuraGrey30 = 6a2f2f
+	- SakuraGrey50 = b04f4f
+	- SakuraGrey80 = dfb9b9
+	- SakuraGrey90 = efdcdc
+	- SakuraGrey98 = fbf9f9
+* * *
+## Color Theme
+### Dark color theme
+- primary = Sakura80
+- onPrimary = Sakura20
+- primaryContainer = Sakura30
+- onPrimaryContainer = Sakura90
+- inversePrimary = Sakura40
+- secondary = DarkSakura80
+- onSecondary = DarkSakura20
+- secondaryContainer = DarkSakura30
+- onSecondaryContainer = DarkSakura90
+- tertiary = Ashen80
+- onTertiary = Ashen20
+- tertiaryContainer = Ashen36
+- onTertiaryContainer = Ashen90
+- error = Red80
+- onError = Red20
+- errorContainer = Red30
+- onErrorContainer = Red90
+- background = Grey10
+- onBackground = Grey90
+- surface = SakuraGrey30
+- onSurface = SakuraGrey80
+- inverseSurface = Grey90
+- inverseOnSurface = Grey10
+- surfaceVariant = SakuraGrey30
+- onSurfaceVariant = SakuraGrey80
+- outline = SakuraGrey80
+### Ligth color theme
+- primary = Sakura68
+- onPrimary = Color.White
+- primaryContainer = Sakura90
+- onPrimaryContainer = Sakura10
+- inversePrimary = Sakura80
+- secondary = DarkSakura40
+- onSecondary = Color.White
+- secondaryContainer = DarkSakura90
+- onSecondaryContainer = DarkSakura10
+- tertiary = Ashen36
+- onTertiary = Color.White
+- tertiaryContainer = Ashen90
+- onTertiaryContainer = Ashen20
+- error = Red40
+- onError = Color.White
+- errorContainer = Red90
+- onErrorContainer = Red10
+- background = Grey99
+- onBackground = Grey10
+- surface = SakuraGrey90
+- onSurface = SakuraGrey30
+- inverseSurface = Grey20
+- inverseOnSurface = Grey95
+- surfaceVariant = SakuraGrey98
+- onSurfaceVariant = Grey50
+- outline = SakuraGrey50
