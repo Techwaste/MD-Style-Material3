@@ -1,7 +1,7 @@
 # Component style
 
 ## Hero
-![hero.png](:/1646325dd2c84090a306ca5f2df28c0a)
+![hero.png](img/hero.png)
 - **Typhography**:
 	- display small
 	- title medium
@@ -14,7 +14,7 @@
 	- 	onTertiary
 * * *
 ## Outline TextField
-![outline text field.png](:/07960b8ad6e7497b8a3db85315d9f169)
+![outline text field.png](img/outline%20text%20field.png)
 - **Typhography**:
 	- body large
 	- label large
@@ -24,7 +24,7 @@
 	- 	secondary
 * * *
 ## Button
-![button.png](:/b046b174ef364487ad080cd0dee4adbe)
+![button.png](img/button.png)
 - **Typhography**:
 	- title medium
 - **Shape**:
@@ -34,7 +34,7 @@
 	- 	onPrimary
 * * *
 ## Greet User
-![greet user.png](:/7624a1f3dee942108e903359c5f532c2)
+![greet user.png](img/greet%20user.png)
 - **Typhography**:
 	- title medium
 	- body medium 
@@ -47,7 +47,7 @@
 	- 	onBackground \[70%]
 * * *
 ## Banner
-![banner.png](:/00098df9f47c4514a2803ea7f6a35abb)
+![banner.png](img/banner.png)
 - **Typhography**:
 	- headline small
 - **Shape**:
@@ -58,7 +58,7 @@
 	- 	background
 * * *
 ## Article Filter
-![article filter.png](:/eb946fba5def47f4864de609aaea0b50)
+![article filter.png](img/article%20filter.png)
 - **Typhography**:
 	- label medium
 - **Shape**:
@@ -70,7 +70,7 @@
 	- 	onTertiaryContainer
 * * *
 ## Article Card
-![article card.png](:/5af6db7613a740efae817ccf5b1ebfb0)
+![article card.png](img/article%20card.png)
 - **Typhography**:
 	- title small
 	- body small
@@ -84,7 +84,7 @@
 	- 	onSurface \[70%]
 * * *
 ## Bottom Navigation
-![bottom navigation.png](:/1eab37a2db564f2ab3ddb2eab108e29f)
+![bottom navigation.png](img/bottom%20navigation.png)
 - **Typhography**:
 	- label small
 - **Shape**:
@@ -96,7 +96,7 @@
 	- 	inverseOnSurface
 * * *
 ## Bottom Navigation
-![classification result.png](:/92405a9f0ef4437993c745894647013d)
+![classification result.png](img/classification%20result.png)
 - **Typhography**:
 	- title large
 	- body medium
@@ -110,7 +110,7 @@
 	- 	onBackground \[70%]
 * * *
 ## Usable Component Item
-![usable component item.png](:/88f22b77ee08408dacd68aa59579df40)
+![usable component item.png](img/usable%20component%20item.png)
 - **Typhography**:
 	- body medium
 - **Shape**:
